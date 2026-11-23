@@ -1,6 +1,6 @@
 cask "airwave" do
-  version "2.0.6"
-  sha256 "e23775a2645df1866b2a9470d08bc20c65fd9850f1d13a85d3eb4e5d8732b27e"
+  version "2.1.0"
+  sha256 "12cbbb17d37e216b3aaaf4b196e4bd8e5d34890cfbf623d1ff44cc0b8d2b4f57"
 
   url "https://github.com/sallliisa/Airwave/releases/download/v#{version}/Airwave_v#{version}.zip",
       verified: "github.com/sallliisa/Airwave/"
